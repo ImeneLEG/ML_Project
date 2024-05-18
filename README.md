@@ -18,7 +18,7 @@ Dans un monde où la communication électronique est omniprésente, la détectio
 
 # Organisation des fichiers
 
-- **Code source du projet :** Le code source est disponible dans le fichier Jupyter Notebook. [Lien vers le code source](Project_ML_Spam&Ham_Emails.ipynb)
+- **Code source du projet :** Le code source est disponible dans le fichier Jupyter Notebook. [Lien vers le code source](Copie_de_Project_Machine_Learning.ipynb)
 - **Dataset :** Nous avons utilisé le jeu de données disponible sur Kaggle. [Lien vers le dataset (From Kaggle)](spam_ham_dataset.csv)
 - **Rapport :** Le rapport complet du projet est disponible dans le fichier. [Lien vers le rapport](lien_vers_le_rapport)
 
