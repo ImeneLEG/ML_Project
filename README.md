@@ -2,14 +2,14 @@
 
 Ce projet a été réalisé dans le cadre du Mini-Projet de Machine Learning à l'ENSAO par le groupe **[SPAM/HAM Team]** composé des étudiants suivants :
 
-|  Nom et Prénom       |
-|---------------------|
-| Imane LEGSIR        |
-| Nousseiba ZAOUI     |
-| Hajar DOBLI         |
-| Kaoutar LAOUAJ      |
-| Manal BENDALI       |
-| Doha ANIBA          |
+| Nom et Prénom       | Profil GitHub       |
+|---------------------|---------------------|
+| Imane LEGSIR        | [Imane Legsir ](https://github.com/ImeneLEG) |
+| Nousseiba ZAOUI     | [nousseibazaoui](lien_vers_profil) |
+| Hajar DOBLI         | [hajardobli](lien_vers_profil) |
+| Kaoutar LAOUAJ      | [kaoutarlaouaj](lien_vers_profil) |
+| Manal BENDALI       | [manalbendali](lien_vers_profil) |
+| Doha ANIBA          | [dohaaniba](lien_vers_profil) |
 
 
 # Introduction
