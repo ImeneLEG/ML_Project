@@ -36,8 +36,10 @@ Pour exécuter le code, assurez-vous d'avoir les bibliothèques Python suivantes
 
 -**nltk:** Utilisé pour le traitement naturel du langage (NLP), notamment la tokenization et le téléchargement de certains ensembles de données (stopwords, punkt).
 
+-**WordCloud:** Une bibliothèque Python pour la création de nuages de mots à partir de textes. Elle permet de visualiser les mots les plus fréquents dans un texte en les affichant dans une disposition visuellement attrayante.
+
 ## Vous pouvez les installer en utilisant la commande suivante :
 
 ```bash
-pip install pandas scikit-learn matplotlib seaborn nltk
+pip install pandas scikit-learn matplotlib seaborn nltk wordcloud
 
