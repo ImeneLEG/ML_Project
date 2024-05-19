@@ -1,6 +1,6 @@
-# 📧 Projet Machine Learning : Détection de Spam et Ham dans les e-mails
+# 📧 Mini-Projet Machine Learning : Détection de Spam et Ham dans les e-mails
 
-Ce projet a été réalisé dans le cadre du Mini-Projet de Machine Learning à l'ENSAO par le groupe **[SPAM/HAM Team]** composé des étudiants suivants :
+Ce projet a été réalisé dans le cadre du Mini-Projet de Machine Learning à l'ENSAO par le groupe **[SPAM/HAM Team]** composé des étudiantes suivants :
 
 | Nom et Prénom       | Profil GitHub       |
 |---------------------|---------------------|
