@@ -4,12 +4,12 @@ Ce projet a été réalisé dans le cadre du Mini-Projet de Machine Learning à 
 
 | Nom et Prénom       | Profil GitHub       |
 |---------------------|---------------------|
-| Imane LEGSIR        | [Imane Legsir](https://github.com/ImeneLEG) 👩‍💻 |
-| Nousseiba ZAOUI     | [nousseiba zaoui](lien_vers_profil) 👩‍💻 |
-| Hajar DOBLI         | [hajar dobli](https://github.com/HajarDobli) 👩‍💻 |
+| Imane LEGSIR        | [Imane Legsir](https://github.com/ImeneLEG)        👩‍💻 |
+| Nousseiba ZAOUI     | [nousseiba zaoui](lien_vers_profil)                👩‍💻 |
+| Hajar DOBLI         | [hajar dobli](https://github.com/HajarDobli)       👩‍💻 |
 | Kaoutar LAOUAJ      | [kaoutar laouaj](https://github.com/Kaoutarlaouaj) 👩‍💻 |
-| Manal BENDALI       | [manal bendali](https://github.com/manalbendali) 👩‍💻 |
-| Doha ANIBA          | [Doha Aniba](https://github.com/Dohaaniba) 👩‍💻 |
+| Manal BENDALI       | [manal bendali](https://github.com/manalbendali)   👩‍💻 |
+| Doha ANIBA          | [Doha Aniba](https://github.com/Dohaaniba)         👩‍💻 |
 
 #  Introduction
 
