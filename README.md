@@ -18,7 +18,7 @@ Dans un monde où la communication électronique est omniprésente, la détectio
 # 📁 Organisation des fichiers
 
 ### 📄 **Code source du projet :** 
-🔗 [**Lien vers le code source**](Copie_de_Project_Machine_Learning.ipynb) 
+🔗 [**Lien vers le code source**](spama&hamProject.ipynb) 
 
 ### 📊 **Dataset :** 
 🔗 [**Lien vers le dataset** (From Kaggle)](spam_ham_dataset.csv) 
