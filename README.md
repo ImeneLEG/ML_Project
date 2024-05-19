@@ -8,7 +8,7 @@ Ce projet a été réalisé dans le cadre du Mini-Projet de Machine Learning à 
 | Nousseiba ZAOUI     | [nousseibazaoui](lien_vers_profil) |
 | Hajar DOBLI         | [hajardobli](https://github.com/HajarDobli) |
 | Kaoutar LAOUAJ      | [kaoutarlaouaj](https://github.com/Kaoutarlaouaj) |
-| Manal BENDALI       | [manalbendali](lien_vers_profil) |
+| Manal BENDALI       | [manalbendali](https://github.com/manalbendali) |
 | Doha ANIBA          | [Doha Aniba](https://github.com/Dohaaniba) |
 
 
